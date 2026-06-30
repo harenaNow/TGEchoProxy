@@ -1,0 +1,12 @@
+{
+  "name": "tg-echo-proxy",
+  "version": "1.0.0",
+  "description": "TG双向私聊机器人 - 带人机验证",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
